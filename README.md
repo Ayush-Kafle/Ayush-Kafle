@@ -1,13 +1,95 @@
-- 👋 Hi, I’m @Ayush-Kafle
-- 👀 I’m super passionate about backend development and software engineering.
-- 🌱 I’m currently repracticing C++ again and transitioning to python and learning backend development.
-- 💞️ I’m looking to collaborate on a project and looking for jobs
-- 📫 How to reach me? Contact me at gmail: ayushkafle03@gmail.com or connect with me on my linkedin www.linkedin.com/in/ayushkafle7107
-- Please disregard me if I make some stupid mistakes here and there.
-- https://ayush-kafle.vercel.app
-- https://ayushkafle.com.np
+# Hi, I'm Ayush Kafle
 
-<!---
-Ayush-Kafle/Ayush-Kafle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science graduate focused on backend engineering, AI-powered applications, and software automation.
+
+I enjoy building systems that solve real problems, whether that's helping students navigate university applications, automating development workflows, or creating tools that interact directly with hardware.
+
+Most of my work sits at the intersection of software engineering, AI, and practical problem-solving.
+
+---
+
+## Featured Projects
+
+### AI Auto Scaffolder
+
+An AI-powered development tool that generates application scaffolding and accelerates project setup workflows.
+
+**Tech:** Python, AI/LLMs, Automation
+
+### Appluni
+
+A platform designed to simplify the university application process by helping students track requirements, deadlines, documents, and application progress in one place.
+
+**Tech:** Full-Stack Development, Databases, Web Technologies
+
+### Embedded Test Automation & Hardware Telemetry System
+
+Built a software-driven embedded testing platform that collects real-time telemetry data through serial communication, automates fault detection, and validates hardware performance under simulated fault conditions.
+
+**Tech:** Python, Embedded Systems, Serial Communication, Automation
+
+### Contact Manager
+
+A full-stack application designed to manage and organize contact information with a focus on clean architecture, backend design, and data management.
+
+**Tech:** Backend Development, Databases, APIs
+
+---
+
+## Skillsets
+
+**Languages**
+
+* Python
+* Java
+* C++
+* JavaScript
+* TypeScript
+* SQL
+
+**Backend**
+
+* Node.js
+* REST APIs
+* Database Design
+* Authentication & Authorization
+
+**AI & Data**
+
+* Machine Learning
+* LLM Applications
+* Data Processing
+* Automation Workflows
+
+**Tools**
+
+* Git
+* GitHub
+* Linux
+* VS Code
+
+---
+
+## Currently Working On
+
+* Expanding AI-powered software projects
+* Building scalable backend applications
+* Exploring machine learning and intelligent automation systems
+* Improving software architecture and system design skills
+
+---
+
+## Let's Connect
+
+📧 Email: [ayushkafle03@gmail.com](mailto:ayushkafle03@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/ayushkafle7107
+
+🌐 Portfolio:
+
+* ayush-kafle.vercel.app
+* ayushkafle.com.np
+
+---
+
+I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
