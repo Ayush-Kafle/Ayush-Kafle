@@ -100,6 +100,9 @@ A full-stack application designed to manage and organize contact information wit
 
 I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ayush-Kafle)
 
 ## 📈 Activity Graph
 
