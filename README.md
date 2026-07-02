@@ -96,8 +96,6 @@ A full-stack application designed to manage and organize contact information wit
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-kafle.vercel.app)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushkafle.com.np)
 [![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ayushkafle03@gmail.com)
-
-📧 Email: [ayushkafle03@gmail.com](mailto:ayushkafle03@gmail.com)
 ---
 
 I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
