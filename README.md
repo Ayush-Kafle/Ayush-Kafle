@@ -91,7 +91,7 @@ A full-stack application designed to manage and organize contact information wit
 * ayushkafle.com.np
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/ayushkafle7107)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://ayush-kafle.vercel.app)
 
