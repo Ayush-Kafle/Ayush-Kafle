@@ -101,5 +101,9 @@ A full-stack application designed to manage and organize contact information wit
 I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
 
 
+## 📈 Activity Graph
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Kafle)](https://github.com/Ayush-Kafle)
+
 
 ![](https://komarev.com/ghpvc/?username=Ayush-Kafle&color=blue)
