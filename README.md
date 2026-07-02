@@ -90,12 +90,12 @@ A full-stack application designed to manage and organize contact information wit
 * ayush-kafle.vercel.app
 * ayushkafle.com.np
 
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/ayushkafle7107)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://ayush-kafle.vercel.app)
-
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge)](https://ayushkafle.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkafle7107)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-kafle.vercel.app)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushkafle.com.np)
+[![Email](https://img.shields.io/badge/Email-ayushkafle03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkafle03@gmail.com)
 ---
 
 I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
