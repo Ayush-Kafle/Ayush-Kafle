@@ -100,6 +100,9 @@ A full-stack application designed to manage and organize contact information wit
 
 I enjoy collaborating with other developers, learning new technologies, and building projects that have real-world impact. If you're working on something interesting, feel free to reach out.
 
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Ayush-Kafle/Ayush-Kafle/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 Activity Graph
 
