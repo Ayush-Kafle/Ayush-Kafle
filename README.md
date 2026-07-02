@@ -34,15 +34,6 @@ A full-stack application designed to manage and organize contact information wit
 
 **Tech:** Backend Development, Databases, APIs
 
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| AI Auto Scaffolder | AI-powered application generation tool | Python, LLMs |
-| Appluni | University application platform | Full Stack |
-| Embedded Telemetry System | Hardware testing and fault detection | Python, Embedded |
-| Contact Manager | Full-stack contact management application | Backend, SQL |
 ---
 
 ## Skillsets
